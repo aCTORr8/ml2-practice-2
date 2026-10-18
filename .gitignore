@@ -1,18 +1,10 @@
-.venv/
 __pycache__/
 *.py[cod]
+.venv/
+venv/
 .ipynb_checkpoints/
 tmp/
-
-# Локальні матеріали для підготовки, не для здачі
-/DEFENSE_GUIDE.md
-/ML-2-Practice.pdf
-/machine_learning_2.ipynb
-/build_practice2_notebook.py
-/execute_notebook.py
-
-# Дублікати датасету; у репозиторії достатньо XLSX
-/data/dry_bean_dataset.zip
-/data/dry_bean_dataset/DryBeanDataset/Dry_Bean_Dataset.arff
-/data/dry_bean_dataset/DryBeanDataset/Dry_Bean_Dataset.txt
-
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
